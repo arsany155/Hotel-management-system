@@ -1,0 +1,28 @@
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\MyHotelTuto.exe.config
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\MyHotelTuto.exe
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\MyHotelTuto.pdb
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\Hotel Mangment Sytsem.csprojAssemblyReference.cache
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Bookings.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Customers.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Dashboard.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Form1.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Receptions.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Hotels.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Locations.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Rooms.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Properties.Resources.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.Types.resources
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\Hotel Mangment Sytsem.csproj.GenerateResource.cache
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.exe.licenses
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\Hotel Mangment Sytsem.csproj.CopyComplete
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.exe
+C:\Users\ARSANY\Desktop\New folder (2)\Project\MyHotelTuto\obj\Debug\MyHotelTuto.pdb
